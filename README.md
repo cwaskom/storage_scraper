@@ -1,1 +1,1 @@
-# storage_scraper
+This project, storage scraper, is still in progress. The goal is to build a daily scraper of competitive self service properties using BeautifulSoup and load the data into a PostgreSQL database using SQLAlchemy. Then using Flask, the project will create an API of competitive rates.
